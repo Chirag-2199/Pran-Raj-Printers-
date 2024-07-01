@@ -1,2 +1,1 @@
-# Pran-Raj-Printers-
-Raj shree printers 
+Pran-Raj-Printers is undergoing a revival after some files were accidentally deleted. The project is being rejuvenated using Next.js, transitioning from its previous state in HTML and CSS. The team is dedicated to enhancing the project and bringing it back to life with improved features and functionality.
